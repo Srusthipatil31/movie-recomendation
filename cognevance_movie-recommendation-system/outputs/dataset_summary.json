@@ -1,0 +1,10 @@
+{
+  "users": 610,
+  "movies": 3650,
+  "ratings": 90274,
+  "mean_rating": 3.537,
+  "median_rating": 3.5,
+  "matrix_sparsity_pct": 95.95,
+  "avg_ratings_per_user": 148.0,
+  "avg_ratings_per_movie": 24.7
+}

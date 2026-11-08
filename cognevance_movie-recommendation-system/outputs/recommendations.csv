@@ -1,0 +1,51 @@
+userId,rank,movieId,title,genres,predicted_rating
+82,1,318,"Shawshank Redemption, The",Crime|Drama,3.97
+82,2,296,Pulp Fiction,Comedy|Crime|Drama|Thriller,3.84
+82,3,4995,"Beautiful Mind, A",Drama|Romance,3.74
+82,4,48516,"Departed, The",Crime|Drama|Thriller,3.74
+82,5,1213,Goodfellas,Crime|Drama,3.72
+82,6,1278,Young Frankenstein,Comedy|Fantasy,3.72
+82,7,457,"Fugitive, The",Thriller,3.71
+82,8,2959,Fight Club,Action|Crime|Drama|Thriller,3.71
+82,9,555,True Romance,Crime|Thriller,3.71
+82,10,1704,Good Will Hunting,Drama|Romance,3.7
+219,1,1201,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il)",Action|Adventure|Western,3.95
+219,2,1208,Apocalypse Now,Action|Drama|War,3.93
+219,3,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Comedy|War,3.92
+219,4,1215,Army of Darkness,Action|Adventure|Comedy|Fantasy|Horror,3.89
+219,5,720,Wallace & Gromit: The Best of Aardman Animation,Adventure|Animation|Comedy,3.88
+219,6,527,Schindler's List,Drama|War,3.87
+219,7,2019,Seven Samurai (Shichinin no samurai),Action|Adventure|Drama,3.86
+219,8,2288,"Thing, The",Action|Horror|Sci-Fi|Thriller,3.84
+219,9,88129,Drive,Crime|Drama|Film-Noir|Thriller,3.84
+219,10,122882,Mad Max: Fury Road,Action|Adventure|Sci-Fi|Thriller,3.83
+56,1,527,Schindler's List,Drama|War,4.65
+56,2,34,Babe,Children|Drama,4.43
+56,3,223,Clerks,Comedy,4.38
+56,4,1,Toy Story,Adventure|Animation|Children|Comedy|Fantasy,4.26
+56,5,260,Star Wars: Episode IV - A New Hope,Action|Adventure|Sci-Fi,4.23
+56,6,553,Tombstone,Action|Drama|Western,4.21
+56,7,475,In the Name of the Father,Drama,4.21
+56,8,246,Hoop Dreams,Documentary,4.2
+56,9,780,Independence Day (a.k.a. ID4),Action|Adventure|Sci-Fi|Thriller,4.19
+56,10,471,"Hudsucker Proxy, The",Comedy,4.19
+599,1,527,Schindler's List,Drama|War,3.53
+599,2,903,Vertigo,Drama|Mystery|Romance|Thriller,3.46
+599,3,1250,"Bridge on the River Kwai, The",Adventure|Drama|War,3.43
+599,4,1193,One Flew Over the Cuckoo's Nest,Drama,3.4
+599,5,57669,In Bruges,Comedy|Crime|Drama|Thriller,3.39
+599,6,1262,"Great Escape, The",Action|Adventure|Drama|War,3.38
+599,7,3535,American Psycho,Crime|Horror|Mystery|Thriller,3.37
+599,8,1304,Butch Cassidy and the Sundance Kid,Action|Western,3.35
+599,9,1276,Cool Hand Luke,Drama,3.34
+599,10,1234,"Sting, The",Comedy|Crime,3.33
+265,1,858,"Godfather, The",Crime|Drama,4.17
+265,2,1136,Monty Python and the Holy Grail,Adventure|Comedy|Fantasy,4.05
+265,3,527,Schindler's List,Drama|War,4.03
+265,4,1219,Psycho,Crime|Horror,4.0
+265,5,1197,"Princess Bride, The",Action|Adventure|Comedy|Fantasy|Romance,3.99
+265,6,1221,"Godfather: Part II, The",Crime|Drama,3.98
+265,7,1291,Indiana Jones and the Last Crusade,Action|Adventure,3.96
+265,8,5952,"Lord of the Rings: The Two Towers, The",Adventure|Fantasy,3.94
+265,9,1210,Star Wars: Episode VI - Return of the Jedi,Action|Adventure|Sci-Fi,3.93
+265,10,4993,"Lord of the Rings: The Fellowship of the Ring, The",Adventure|Fantasy,3.92

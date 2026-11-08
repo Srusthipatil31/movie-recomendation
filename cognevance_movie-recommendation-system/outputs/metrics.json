@@ -1,0 +1,31 @@
+{
+  "rating_prediction": {
+    "test_ratings_evaluated": 18055,
+    "Global-mean baseline": {
+      "RMSE": 1.0282463783574938,
+      "MAE": 0.8187750776931005
+    },
+    "User-mean baseline": {
+      "RMSE": 0.9342161372230716,
+      "MAE": 0.7276160122779756
+    },
+    "User-based CF": {
+      "RMSE": 0.8697236762104847,
+      "MAE": 0.6656481882106957
+    }
+  },
+  "top_n_ranking": {
+    "users_evaluated": 598,
+    "k": 10,
+    "User-based CF": {
+      "Precision@10": 0.11956521739130435,
+      "Recall@10": 0.10367509765503823,
+      "HitRate@10": 0.5518394648829431
+    },
+    "Popularity baseline": {
+      "Precision@10": 0.11739130434782609,
+      "Recall@10": 0.10125410849035915,
+      "HitRate@10": 0.5367892976588629
+    }
+  }
+}
